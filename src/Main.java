@@ -1,6 +1,5 @@
 //import org.apache.log4j.Logger;
 
-//import com.mysql.jdbc.Connection;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
